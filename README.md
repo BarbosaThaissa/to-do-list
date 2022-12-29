@@ -31,7 +31,7 @@ This project was developed with the following technology:
 
 It’s a To Do List.
 
-Live preview: trocar aqui
+Live preview: https://my-to-do-list-tb.netlify.app/
 
 ## :memo: Licença
 
